@@ -1,0 +1,10 @@
+_start:
+
+    mov eax, 05
+    mov ebx, 05
+    add eax, ebx
+    mov eax, 04 
+    mov ebx, 01
+    end eax
+ 
+   
